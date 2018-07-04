@@ -1,4 +1,4 @@
-var pimplink = "href.li"; //kuyhAa.Me
+var pimplink = "href.li";
 
 var protected_links = "";
 var a_to_va = 0;
@@ -89,7 +89,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://tinyurl.com/jUTk3no9?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://tinyurl.com/y8r6v7qa?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
