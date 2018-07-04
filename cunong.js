@@ -1,4 +1,4 @@
-var pimplink = "href.li"; //kuyhaa-android19.com
+var pimplink = "href.li";
 
 var protected_links = "";
 var a_to_va = 0;
