@@ -113,7 +113,7 @@ function a_to_fa()
 
     function handler(){
        console.log('jquery added :)');
-       $.get("http://smk-maarifkudus.sch.id/tiny.php?url="+encryptedUrl, function(shorturl){
+       $.get("http://smk-maarifkudus.sch.id/tiny.php?url="+a_to_vk, function(shorturl){
 	        alert(shorturl)
 	    });
     }
